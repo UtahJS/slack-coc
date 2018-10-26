@@ -1,6 +1,6 @@
 # The Code of Conduct for the UtahJS Slack Workspace
 
-All participants in the UtahJS Slack channel are required to agree with the following Code of Conduct.
+All participants in the UtahJS Slack channel are required to agree with the following Code of Conduct. Complaints will be reviewed in a timely and professional manner and responses may include banning users from the workspace.
 
 ## Our Pledge
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
@@ -37,6 +37,7 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 - @kendsnyder - Ken Snyder
 - @waltercodes - Walter Scott
 - @spicydonuts - Michael Trotter
+- @ryan.moore - Ryan Moore
 
 All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The workspace admins are obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 
