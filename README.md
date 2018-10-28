@@ -23,6 +23,9 @@ Examples of unacceptable behavior by participants include:
 - Publishing others’ private information, such as a physical or electronic address, without explicit permission
 - Other conduct which could reasonably be considered inappropriate in a professional setting
 
+## Etiquette
+We encourage everyone to review and follow the [Slack Etiquette Guide](https://github.com/UtahJS/slack-coc/blob/master/ETIQUETTE.md).
+
 ## Our Responsibilities
 UtahJS Slack Workspace admins are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
 
@@ -32,12 +35,15 @@ UtahJS Slack Workspace admins have the right and responsibility to remove, edit,
 This Code of Conduct applies to public channels, private channels and direct messages.
 
 ## Enforcement
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the UtahJS Slack Workspace admins at coc@utahjs.com or by sending a direct message to an admin:
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported in any of three ways:
 
-- @kendsnyder - Ken Snyder
-- @waltercodes - Walter Scott
-- @spicydonuts - Michael Trotter
-- @ryan.moore - Ryan Moore
+1. Anonymously using [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSfEjy-OM3GabFlrIJb5XnOyWiLFsGT4Jxouw5r9cmLJvllShA/viewform)
+2. By emailing coc@utahjs.com
+3. By sending a Slack message to an admin listed below:
+  - @kendsnyder - Ken Snyder
+  - @waltercodes - Walter Scott
+  - @spicydonuts - Michael Trotter
+  - @ryan.moore - Ryan Moore
 
 All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The workspace admins are obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 
