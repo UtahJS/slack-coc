@@ -4,7 +4,7 @@ All participants in the UtahJS Slack channel are required to agree with the foll
 
 ## Our Pledge
 
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone.
+In the interest of fostering an open and welcoming environment, we as members and contributors pledge to make our community and any projects related to it a safe and harassment-free experience for everyone.
 
 ## Our Standards
 
