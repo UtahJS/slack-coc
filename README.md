@@ -55,7 +55,7 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 1. By sending a Slack message to an admin listed below:
   - @kendsnyder - Ken Snyder
   - @waltercodes - Walter Scott
-  - @spicydonuts - Michael Trotter
+  - @Madeline - Madeline Trotter
   - @ryan.moore - Ryan Moore
 
 All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The workspace admins are obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
