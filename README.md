@@ -24,6 +24,25 @@ Examples of unacceptable behavior by participants include:
 - Publishing others’ private information, such as a physical or electronic address, without explicit permission
 - Other conduct which could reasonably be considered inappropriate in a professional setting
 
+## Avatars
+
+We encourage everyone to use a personal photo for their avatar.
+
+#### Appropriate
+
+- A photo of you
+- A photo of you with family or friends
+- A digital avatar based on your own appearance
+
+#### Not appropriate
+
+- A photo of someone else
+- A character from a cartoon or graphic novel
+- A stock photo
+- An AI-generated image
+- Sexualized imagery or words
+- Vulgar or obscene imagery or words
+
 ## Etiquette
 
 We encourage everyone to review and follow the [Slack Etiquette Guide](https://github.com/UtahJS/slack-coc/blob/master/ETIQUETTE.md).
