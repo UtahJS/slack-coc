@@ -28,20 +28,28 @@ Examples of unacceptable behavior by participants include:
 
 We encourage everyone to use a personal photo for their avatar.
 
-#### Appropriate
+#### Recommended
 
-- A default Slack avatar
 - A photo of you
-- A photo of you with family or friends
 - A digital avatar based on your own appearance
+- A default Slack avatar
+
+#### Allowed
+
+- A photo of you with family, friends or pets
+- A drawing or cartoon
+- An inanimate object 
+- An animal
+- A logo
+- An emoji symbol
 
 #### Not appropriate
 
 - A photo of someone else
-- A character from a cartoon or graphic novel
 - A stock photo
 - An AI-generated image
 - Sexualized imagery or words
+- Gore or violence
 - Vulgar or obscene imagery or words
 
 ## Etiquette
