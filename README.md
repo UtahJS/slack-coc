@@ -30,6 +30,7 @@ We encourage everyone to use a personal photo for their avatar.
 
 #### Appropriate
 
+- A default Slack avatar
 - A photo of you
 - A photo of you with family or friends
 - A digital avatar based on your own appearance
