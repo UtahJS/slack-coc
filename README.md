@@ -47,10 +47,10 @@ We encourage everyone to use a personal photo for their avatar.
 
 - A photo of someone else
 - A stock photo
-- An AI-generated image
 - Sexualized imagery or words
 - Gore or violence
 - Vulgar or obscene imagery or words
+- An AI-generated image that looks like someone else
 
 ## Etiquette
 
