@@ -1,6 +1,6 @@
 # The Code of Conduct for the UtahJS Slack Workspace
 
-All participants in the UtahJS Slack channel are required to agree with the following Code of Conduct. Complaints will be reviewed in a timely and professional manner and responses may include banning users from the workspace.
+All participants in the UtahJS Slack Workspace are required to agree with the following Code of Conduct. Complaints will be reviewed in a timely and professional manner and responses may include banning users from the workspace.
 
 ## Our Pledge
 
@@ -78,7 +78,7 @@ This Code of Conduct applies to public channels, private channels and direct mes
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported in any of three ways:
 
-1. Anonymously using [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSfEjy-OM3GabFlrIJb5XnOyWiLFsGT4Jxouw5r9cmLJvllShA/viewform)
+1. Anonymously using [this form](https://forms.gle/7a7w7RgfKMJieWZq8)
 1. By emailing coc@utahjs.com
 1. By sending a Slack message to an admin listed below:
   - @kendsnyder - Ken Snyder
@@ -92,6 +92,6 @@ UtahJS Slack Workspace admins who do not follow or enforce the Code of Conduct i
 
 ## Attribution
 
-This Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+This Code of Conduct is adapted from the [Contributor Covenant version 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html)
 
-For answers to common questions about this code of conduct, see https://www.contributor-covenant.org/faq
+Also see [answers to common questions](https://www.contributor-covenant.org/faq) about this code of conduct.
